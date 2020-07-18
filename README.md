@@ -11,4 +11,4 @@
 - ⚡ Fun fact: Big Fan of **Cats 🐈**
 
 ---
-![alt text](./Dolphin.png "My cat Dolphin")
+<img align="center" src="./Dolphin.jpg" width="200">
