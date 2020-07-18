@@ -9,3 +9,6 @@
 - 💬 Ask me about **Java**
 - 📫 How to reach me: [Yancong(Peter) Li](https://www.linkedin.com/in/ubcpeterli/) on LinkedIn
 - ⚡ Fun fact: Big Fan of **Cats 🐈**
+
+---
+![alt text](./Dolphin.png "My cat Dolphin")
