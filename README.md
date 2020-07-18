@@ -3,7 +3,6 @@
   <a href="https://www.linkedin.com/in/ubcpeterli/">LinkedIn</a> 
 </p>
 
-
 - 🔭 I’m currently working on **Leetcode Problems**
 - 🌱 I’m currently learning **CPSC 320 at UBC: Intermediate Algorithm Design and Analysis**
 - 💬 Ask me about **Java**
