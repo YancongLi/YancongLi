@@ -10,5 +10,7 @@
 - 📫 How to reach me: [Yancong(Peter) Li](https://www.linkedin.com/in/ubcpeterli/) on LinkedIn
 - ⚡ Fun fact: Big Fan of **Cats 🐈**
 
----
-<img align="center" src="./Dolphin.jpg" width="200">
+<p align="center">
+  <img
+       src="./Dolphin.jpg" width="200">
+</p>
