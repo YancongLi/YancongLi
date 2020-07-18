@@ -11,5 +11,5 @@
 
 <p align="center">
   <img
-       src="./Dolphin.jpg" width="100">
+       src="https://raw.githubusercontent.com/YancongLi/YancongLi/master/Dolphin.jpg" width="100">
 </p>
