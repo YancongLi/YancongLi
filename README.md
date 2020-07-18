@@ -12,5 +12,5 @@
 
 <p align="center">
   <img
-       src="./Dolphin.jpg" width="200">
+       src="./Dolphin.jpg" width="100">
 </p>
