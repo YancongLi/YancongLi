@@ -3,8 +3,8 @@
   <a href="https://www.linkedin.com/in/ubcpeterli/">LinkedIn</a> 
 </p>
 
-- 🔭 I’m currently working on **Leetcode Problems**
-- 🌱 I’m currently learning **CPSC 320 at UBC: Intermediate Algorithm Design and Analysis**
+- 🔭 I’m currently working on **Leetcode Problems && a Spring Boot backend personal project**
+- 🌱 I’m currently learning **Compter Science courses at UBC: Internet Computing, Applied Machine Learning, Introduction to Human Computer Interaction Methods**
 - 💬 Ask me about **Java**
 - 📫 How to reach me: [Yancong(Peter) Li](https://www.linkedin.com/in/ubcpeterli/) on LinkedIn
 - ⚡ Fun fact: Big Fan of **Cats 🐈**
