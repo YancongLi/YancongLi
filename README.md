@@ -3,8 +3,8 @@
   <a href="https://www.linkedin.com/in/ubcpeterli/">LinkedIn</a> 
 </p>
 
-- 🔭 I’m currently working on **Java Web Developer Nanodegree at Udacity**
-- 🌱 I’m currently learning **Algorithm and System Design**
+- 🔭 I’m currently Working as a member of the **AWS CloudFormation team**
+- 🌱 I’m currently learning **AWS, Algorithm and System Design**
 - 💬 Ask me about **Java, Full Stack**
 - 📫 How to reach me: [Yancong(Peter) Li](https://www.linkedin.com/in/ubcpeterli/) on LinkedIn
 - ⚡ Fun fact: Big Fan of **Lin Dan**
