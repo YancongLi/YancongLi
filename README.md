@@ -1,9 +1,6 @@
 <h2 align="center">👋  Hi there! I'm Peter 👋</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ubcpeterli/">LinkedIn</a> 
-</p>
 
-- 🔭 I’m currently Working as a SDE at *Amazon*
+- 🔭 I’m currently Working as **a Software Development Engineer I at Amazon**
 - 🌱 I’m currently learning **AWS, Algorithm and System Design**
 - 💬 Ask me about **Java, Full Stack**
 - 📫 How to reach me: [Yancong(Peter) Li](https://www.linkedin.com/in/ubcpeterli/) on LinkedIn
